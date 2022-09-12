@@ -1,0 +1,39 @@
+---
+title: "Adult Human Services"
+---
+
+## Recent News
+The Adult Human Services includes mental health programs that provide a mix of subsidies (through a mental health insurance supplement for low-income, employed residents) and direct service provision (through the operation of a mental health clinic in each quadrant for low-income, unemployed residents). Adult Human Services also operate workforce development programs (basic job training for entry level jobs and job placement assistance for entry-level jobs with a focus on long-term unemployed and formerly incarcerated residents). Finally, Adult Human Services operate three substance abuse treatment clinics to help provide treatment and support for those struggling with drug or alcohol addictions. 9/12
+
+
+## Current Operations Budget
+@tbl-asbudget provides an overview of the FY21 budget for Adult Human Services broken out by operations and the source of the expenditure. 
+
+::: {#tbl-asbudget layout-ncol=2}
+| Adult Human Services | 378,993 |
+| ---------------- | --------- |
+| Cash assistance             | 96,997  |
+| Job training                | 27,686  |
+| SNAP                        | 1,155   |
+| Case management             | 20,979  |
+| Eligibility determination   | 75,189  |
+| Disability                  | 3,345   |
+| Domestic violence shelters | 2,024  |
+| Homelessness prevention     | 5,114  |
+| Mental health services      | 66,839 |
+| Substance abuse services    | 40,561 |
+| Management | 39,104 |
+
+: Adult Human Services Operations (in 1,000s) {#tbl-asops}
+
+| Adult Human Services | 378,993 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 233,224 |
+| Pay - Other | 88,165 |
+| Fringe benefits | 52,273 |
+| Overtime | 1,294 |
+
+: Adult Human Services Expenditures (in 1,000s) {#tbl-asexp}
+
+Budget Overview FY21
+:::

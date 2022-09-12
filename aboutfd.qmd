@@ -1,0 +1,33 @@
+---
+title: "Fire Department"
+---
+
+## Recent News
+Under the long-standing fire chief, morale is generally high, though the number of fires due to faulty wiring has been increasing. The fire chief believes inspection efforts for fire safety are underfunded and should be a priority. 9/12
+
+## Current Operations Budget
+@tbl-budgetfdall outlines our budget for FY21. @tbl-fdops summarizes the budget by operations and @tbl-fddetail summarizes the budget by type of expenditure. Our FY22 budget is current in development.
+
+::: {#tbl-budgetfdall layout-ncol=2}
+| Fire                 | 282,037 |
+| -------------------- | -------------- |
+| Operations | 181,889   |
+| Administrative support  | 13,643  |
+| Support Services       | 25,296   |
+| Prevention and Inspections             | 14,408  |
+| Professional Development            | 10,254  |
+| Management | 9,955 |
+
+: Operations Budget for FY21 (in 1,000s) {#tbl-fdops}
+
+| Fire                 | 282,037 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 176,559 |
+| Pay - Other | 963 |
+| Fringe benefits | 38,900 |
+| Overtime | 65,610 |
+
+: Operations Budget for FY21 (in 1,000s) {#tbl-fddetail}
+
+Budget Overview
+:::

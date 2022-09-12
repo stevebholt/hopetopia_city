@@ -1,0 +1,5 @@
+---
+title: "Department of Education"
+---
+
+The Department of Education is headquartered in Town Hall in the center of Hopetopia. The Department answers to two offices - the office of Superintendent of Schools and the Office of Higher Education. Both are run by mayoral appointees. The Superintendent oversees the 112 schools in the Hopetopia Public School System (see [this table](econ.qmd#tbl-otherecon) for details about the schools and [this table](people.qmd#tbl-edpop) for details about the student population size). The Office of Higher Education provides oversight and administrative support to Hopetopia Community College. The Department of Evaluation and Administration collects assessment data from students and conducts employee and school evaluations for the public school system. The Public Schools and Evaluation and Administration department sites provide an overview of recent news and the current operations of the departments. 

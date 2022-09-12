@@ -1,0 +1,33 @@
+---
+title: "Transportation Department"
+---
+
+## Recent Events
+The Transportation Department operates an extensive city-wide bus system as well as maintaining the roads and approving the design and construction of new roads and bridges. In recent years, cuts have made operating the bus system difficult. Two years ago, you had to reduce the number of busses on routes in the NW and SE quadrants. The service reductions have led to complaints of wait times as high as 60 minutes in those quadrants and you have seen a decline 10% decline in ridership city wide. The biggest ridership declines have come from the NE quadrant, though the reason is unclear. You’ve also been receiving a variety of complaints about road quality and streetlight outages in the NW quadrant. 9/12
+
+## Current Operations Budget
+@tbl-tdbudget provides an overview of the FY21 budget for the Transportation Department broken out by operations and the source of the expenditure. 
+
+::: {#tbl-tdbudget layout-ncol=2}
+| Transportation Department      | 564,333 |
+| ------------------------------ | ------- |
+| Traffic engineering and design | 71,532  |
+| Route construction             | 163,638 |
+| Fleet                          | 50,404  |
+| Bus operations                 | 150,000 |
+| Management                     | 53,759  |
+| Maintenance                    | 75,000  |
+
+: Transportation Department Operations (in 1,000s) {#tbl-tdops}
+
+| Transportation Department      | 564,333 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 347,277 |
+| Pay - Other | 131,280 |
+| Fringe benefits | 77,834 |
+| Overtime | 1,927 |
+
+: Transportation Department Expenditures (in 1,000s) {tbl-tdexp}
+
+Budget Overview FY21
+:::

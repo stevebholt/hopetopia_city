@@ -1,0 +1,30 @@
+---
+title: "Buildings and Regulations Agency"
+---
+
+## Recent News
+The BRA chief notes she does not have the staff necessary to address these concerns in a timely manner. Similarly, developers have noted that delays in plan approvals from the BRA have driven up the cost of building throughout the city. 9/12
+
+## Current Operations Budget
+@tbl-brbudget provides an overview of the FY21 budget for Buildings and Regulations broken out by operations and the source of the expenditure. 
+
+::: {#tbl-brbudget layout-ncol=2}
+| Buildings and Regulations Agency | 4,200 |
+| ---------------- | --------- |
+| Safety Inspections | 1,000 |
+| Code Enforcement | 3,000 |
+| Proposal Review | 200 |
+
+: Buildings and Regulations Operations (in 1,000s) {#tbl-brops}
+
+| Buildings and Regulations Agency | 4,200 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 2,585 |
+| Pay - Other | 977 |
+| Fringe benefits | 579 |
+| Overtime | 14 |
+
+: Buildings and Regulations Expenditures (in 1,000s) {#tbl-hpdetail}
+
+Budget Overview FY21
+:::

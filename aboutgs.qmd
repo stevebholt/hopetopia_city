@@ -1,0 +1,34 @@
+---
+title: "General Services"
+---
+
+## Recent News
+General Services provides a variety of basic infrastructural services, such as waste management (e.g., garbage and recycling collection and sorting), construction and maintenance of parks, enforcement of environmental regulations, and maintenance of government property (e.g., streets, sidewalks, streetlights, traffic lights and signs). Garbage collection workers have reported difficulty recruiting and retaining enough workers, leading to pickup delays in all four quadrants. 9/12 
+
+## Current Operating Budget
+@tbl-gsbudget provides an overview of the FY21 budget for General Services broken out by operations and the source of the expenditure.
+
+::: {#tbl-gsbudget layout-ncol=2}
+| General Services                          | 314,339 |
+| ----------------------------------------- | ------- |
+| Snow removal                              | 8,200   |
+| Fleet management                          | 35,268  |
+| Parking enforcement                       | 35,411  |
+| Waste Management                          | 91,597  |
+| Management                                | 50,185  |
+| Environmental regulations (water and air) | 51,578  |
+| Parks and recreation                      | 42,100  |
+
+: General Services Operations (in 1,000s) {#tbl-gsops}
+
+| General Services      | 314,339 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 193,437 |
+| Pay - Other | 73,124 |
+| Fringe benefits | 43,355 |
+| Overtime | 1,073 |
+
+: General Services Expenditures (in 1,000s) {tbl-gsexp}
+
+Budget Overview FY21
+:::

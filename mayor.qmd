@@ -1,0 +1,19 @@
+---
+title: "Mayor's Office"
+---
+## About the Mayor
+The mayor was elected three years ago on a platform of increasing economic equity in the city and providing more robust aid to the poorer areas of the city. Your primary campaign focus was increasing housing affordability and attracting businesses back to the Southwest ward. In a narrow primary win, the mayor assembled a coalition of support from the Southwest and Northeast quadrants, while a slim advantage in the Northwest ward made the difference. 
+
+## The Mayor's Budget
+@tbl-budgetall summarizes the city's budget.
+
+|                                     | FY21              | FY22              |
+|------------------------------------|------------------|------------------|
+| Revenues                            | \$ 4,791,914,000.00 | \$ 5,031,510,000.00 |
+| Department of Emergency Services    | \$ 1,229,355,000.00 |                   |
+| Department of Community Development | \$ 145,343,000.00  |                   |
+| Department of Social Services       | \$ 560,706,000.00 |                   |
+| Department of General Services      | \$ 878,672,000.00  |                   |
+| Department of Education             | \$ 1,977,838,000.000  |                   |
+
+: Budget Appropriations {#tbl-budgetall}

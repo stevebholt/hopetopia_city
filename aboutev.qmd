@@ -1,0 +1,34 @@
+---
+title: "Evalution and Administration"
+---
+
+## Recent News
+Evaluation and Administration handles the legally mandated evaluation and assessment of student achievement and leads program and staff evaluation efforts. The Evaluation and Administration department is currently dealing with a wave of scandals related to recent investigative reporting from the local paper - Hopetopian Times - that revealed a subset of teachers may have manipulated student tests to improve assessment scores. Internal investigations have also recently revealed that a large charter school operator has been misleading auditors on the expenditures of funds with the president of the operator taking an outsized share of public payments as salary and utilizing under-qualified teachers. The mayor is taking increasing notice of the series of scandals and expects remedies. 9/12
+
+## Current Operations Budget
+@tbl-evbudget provides an overview of the FY21 budget for Evaluation and Administration broken out by operations and the source of the expenditure.
+
+::: {#tbl-evbudget layout-ncol=2}
+| Evaluation and Administration | 285,487 |
+| ----------------------------- | ------- |
+| Student assessment            | 83,430  |
+| Teacher evaluation            | 57,321  |
+| Data collection and analysis  | 30,000  |
+| Public Schools Administration | 85,250  |
+| Charter school assessment     | 10,700  |
+| Communications                | 5,941   |
+| College program review        | 12,845  |
+
+: Evaluation and Administration Operations (in 1,000s) {#tbl-evops}
+
+| Evaluation and Administration | 285,487 |
+| ----------------------------- | ------- |
+| Personnel FT Pay | 175,682 |
+| Pay - Other | 66,413 |
+| Fringe benefits | 39,376 |
+| Overtime | 975 |
+
+: Evaluation and Administration Expenditures (in 1,000s) {#tbl-evexp}
+
+Budget Overview FY21
+:::

@@ -1,0 +1,31 @@
+---
+title: "Hopetopia Public Schools"
+---
+
+## Recent News
+The Hopetopia Public School district operates 112 public schools and pays per-student tuition to subsidize an additional 67 charter schools. The schools in the district vary widely in performance. As of late, the schools in the SW and NE quadrants have been struggling and coping with overcrowding. In addition to operating the public school system, you operate the community college in the city - a college that is looking to expand their offerings to include some four-year degrees. 9/12
+
+## Current Operations Budget
+@tbl-psbudget provides an overview of the FY21 budget for Hopetopia Public Schools broken out by operations and the source of the expenditure.
+
+::: {#tbl-psbudget layout-ncol=2}
+| Hopetopia Public Schools | 1,692,351 |
+| ------------------------ | --------- |
+| Public schools           | 995,617   |
+| Charter payments         | 500,675   |
+| Transportation           | 104,959   |
+| Community college        | 91,100    |
+
+: Public Schools Operations (in 1,000s) {#tbl-psops}
+
+| Hopetopia Public Schools | 1,692,351 |
+| ------------------------ | --------- |
+| Personnel FT Pay | 1,041,433 |
+| Pay - Other | 393,690 |
+| Fringe benefits | 233,418 |
+| Overtime | 5,778 |
+
+: Public Schools Expenditures (in 1,000s) {#tbl-psexp}
+
+Budget Overview FY21
+:::

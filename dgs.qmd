@@ -1,0 +1,5 @@
+---
+title: "Department of General Services"
+---
+
+The Department of General Services provides a lot of general government services to meet the basic infrastructure needs of Hopetopians. The agency houses both the Transportation Department and the General Services Department. In addition to running the Hopetopian bus system - a system that includes 110 routes throughout the city, 2 of which are express routes that bisect the city in all four cardinal directions - the Transportation Department aids in the design, construction, and maintenance of Hopetopia's roads, sidewalks, and bridges. The General Services Department functions as a bit of a catch all; GSD provides snow removal, waste management, enforcement of water and air quality standards, and manages the city's parks (detailed [here](econ.qmd#tbl-otherecon)).

@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Welcome to the website of the city of Hopetopia! At this hub, you will find information about our city's people, businesses, and broader economy. The rest of the site provides information on each of the city's government departments, the services they provide, and the people who work in them. 

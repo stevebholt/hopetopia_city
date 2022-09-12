@@ -1,0 +1,33 @@
+---
+title: "Youth Social Services"
+---
+
+## Recent News
+Youth Social Services provides foster care services and responds to and investigates reports of abuse (child protection services below). In addition, the youth services side of the department operates summer learning programs and early childhood education programs in coordination with the school district, an internship and jobs program for teens in the city, and recreational sport programs for low- and middle-income youth. 9/12
+
+## Current Operating Budget
+@tbl-ysbudget provides an overview of the FY21 budget for Youth Social Services broken out by operations and the source of the expenditure. 
+
+::: {#tbl-ysbudget layout-ncol=2}
+| Youth Social Services          | 181,713 |
+| ------------------------------ | ------- |
+| Child protective services      | 24,819  |
+| Adoption and guardianship      | 29,875  |
+| Sports, recreation, and summer jobs programs | 907     |
+| Child placement                | 45,754  |
+| Management                     | 43,385  |
+| Early education subsidy        | 36,973  |
+
+: Youth Social Services Operations (in 1,000s) {#tbl-ysops}
+
+| Youth Social Services | 181,713 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 111,822 |
+| Pay - Other | 42,272 |
+| Fringe benefits | 25,063 |
+| Overtime | 621 |
+
+: Youth Social Services Expenditures (in 1,000s) {#tbl-ysexp}
+
+Budget Overview FY21
+:::

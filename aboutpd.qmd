@@ -1,0 +1,46 @@
+---
+title: "Police Department"
+---
+
+## Recent News
+The police chief has been focused on community policing efforts, using assigned and steady patrols who operate on a predicted schedule in pairs and have the same assigned beat for 6-month cycles. Recently, the investigations units unresolved crimes rate has increased by 30%, driven largely by poor clearance rates in the Southwest quadrant. Morale is generally low among your officers as some patrols feel their assigned beats are disproportionately more difficult than others. The department has also been struggling with community relations in the Southwest quadrant where multiple reports of officer misconduct have been verified by the Citizen Review Board. 9/12
+
+## Current Operations Budget
+@tbl-budgetpd outlines our budget for FY21 overall (in thousands) and @tbl-pddetail breaks out the details of the police budget by cost and @tbl-pdallocate breaks out the budget by operations. Our FY22 budget is currently in development.
+
+::: {#tbl-budgetpdall layout-ncol=3}
+| Policing and Corrections | 947,318 |
+| -------------------------------- | -------------- |
+| Police                           | 572,163 |
+| Investigations and Forensics    | 25,113  |
+| Corrections and Rehabilitation   | 255,141 |
+| Communications and Other     | 76,404 |
+| Capital & Equipment | 18,000 |
+| Citizen Review Board             | 500     |
+
+: Operations Budget for FY21 (in 1,000s) {#tbl-budgetpd}
+
+| Police | 572,163 |
+| ------------- | -------------- |
+| Capital | 18,000 |
+| Personnel FT Pay | 383,915 |
+| Pay - Other | 34,330 |
+| Fringe benefits | 86,663 |
+| Overtime | 49,252 |
+
+: Police Budget Detail (in 1,000s) {#tbl-pddetail}
+
+| Police | 572,163 |
+| ------------- | -------------- |
+| Patrol Services | 256,219 |
+| Investigations | 126,373 |
+| Administrative Support | 24,043 |
+| Professional Development | 46,185 |
+| Internal Affairs | 9,308 |
+| Homeland Security | 52,505 |
+| Management | 57,531 |
+
+: Police Operations Allocations {#tbl-pdallocate}
+
+Budget Overview FY21
+:::

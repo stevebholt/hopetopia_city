@@ -1,0 +1,52 @@
+---
+title: "Our Wards"
+---
+
+# Organization
+
+The city of Hopetopia is a square grid that is roughly
+20 miles by 18 miles with a population of 725,270 residents. The grid is
+divided into four wards, with downtown and city hall resting in the center
+of the city. Each ward has 4 roughly equally sized districts, each with a
+representative on the city council (for a total of 16 council members) and each
+district has 2-3 neighborhoods with linked economic and residential interests
+with neighborhood associations who often lobby on their behalf. Broadly, the
+city economy is propelled by 3 colleges in the city, one of which is a
+community college and one of which is an elite Science, Technology, Engineering
+and Mathematics (STEM) college, a few tech manufacturing and engineering firms,
+and a robust service sector.
+
+## Southwest ward
+
+The Southwest ward of Hopetopia is highly populated, demographically mixed, but very low income section of the city beset
+by problems and resource needs. The ward has widespread poverty, crumbling
+roads in many neighborhoods, an increasing supply of abandoned and condemned
+properties, and frequent complaints about the quality of the schools. Recently,
+several businesses have left the ward, including 1 of the 2 primary
+grocers, leaving residents with less access to food than other parts of the
+city. The ward also contains two homeless shelters and three substance
+abuse recovery centers.
+
+## Northeast ward
+The Northeast ward is a demographically and socioeconomically mixed neighborhood and houses a robust set of bars,
+restaurants, and small to medium sized retailers. The schools in the ward
+are average schools and the largest private employer in the region, Sid's
+Software Co. (a tech company), is headquartered in the ward. The ward
+is also home to the city's arena, which hosts events and the city's
+professional basketball team. The ward is known for its high-rises and
+density.
+
+## Southeast ward
+
+The Southeast ward is primarily an upper-income
+ward and less demographically mixed than the city as a whole. The schools
+are well-funded and high-performing, the ward houses the area's large
+university, and the ward contains a variety of very high-end retailers and
+restaurants.
+
+## Northwest ward
+The Northwest ward is also very mixed income (from very wealthy to very poor) and very
+demographically mixed. The schools are well-funded and high-performing, and
+there are a range of businesses from smaller tech firms, a handful of mid-sized
+manufacturing firms, and the community college and elite STEM college are in
+the ward.

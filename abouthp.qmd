@@ -1,0 +1,36 @@
+---
+title: "Housing and Planning Agency"
+---
+
+## Recent News
+The head of the HPA has been prioritizing acquiring and rehabilitating abandoned properties in the NW quadrant for the last two years. The program prioritizes residential units and after rehabilitation, manages the units directly and offers both market rate and subsidized units. Recently, the market rate units have been experiencing vacancy rates as many other services and businesses are not convenient to the SW quadrant. Real Estate partners have also noted that the home ownership development programs are often insufficiently funded for SW residents given their economic need. As a result, most of the program helps first time home buyers in the SE and NW quadrants. 9/12
+
+## Current Operations Budget
+@tbl-hpbudget provides an overview of the FY21 budget for Housing and Planning broken out by operations and the source of the expenditure. 
+
+::: {#tbl-hpbudget layout-ncol=2}
+| Housing and Planning Agency | 141,143 |
+| ---------------- | --------- |
+| Planning | 12,834 |
+| Housing subsidies | 8,547 |
+| Rehabilitation and Maintenance | 1,024 |
+| Homeless services | 4,721 |
+| Vouchers | 53,859 |
+| Supportive Housing | 25,017 |
+| Affordable Housing Families| 21,264 |
+| Affordable Housing Indiv. | 5,330 |
+| Rental Assistance | 8,547 |
+
+: Housing and Planning Operations (in 1,000s) {#tbl-hpops}
+
+| Housing and Planning Agency                 | 141,143 |
+| -------------------- | -------------- |
+| Personnel FT Pay | 86,856 |
+| Pay - Other | 482 |
+| Fringe benefits | 19,467 |
+| Overtime | 32,834 |
+
+: Housing and Planning Expenditures (in 1,000s) {#tbl-hpdetail}
+
+Budget Overview FY21
+:::

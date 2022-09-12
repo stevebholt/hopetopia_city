@@ -1,0 +1,117 @@
+---
+title: "Our Economy"
+---
+
+# Economy of Hopetopia
+Our economy is a dynamic economy with a mix of industrial manufacturing, technology companies, colleges and universities, and a growing non-profit sector. On this page, you can find a summary of the income, educational background, housing, and other information about Hopetopia's economy.
+
+## Household Income
+
+@tbl-income summarizes the income distribution, employment rates, and poverty levels in each ward of Hopetopia. While generally our city is productive and prosperous, like many cities, we have many citizens in need.
+
+|                  | Northwest | Northeast | Southwest | Southeast |
+| ---------------- | :-------: | :-------: | :-------: | :-------: |
+| HH Income (Avg.) |     84,974 |     86,241 |     74,017 |     95,072 |
+| Income from Wages (Avg.) |     42,782 |     43,230 |     41,143 |     45,988 |
+| < $20,000 (%)    |        11 |        12 |        16 |         8 |
+| $20K to $40K (%) |        16 |        16 |        19 |        14 |
+| $40K to $60K (%) |        16 |        16 |        16 |        15 |
+| $60K to $80K (%) |        14 |        13 |        13 |        14 |
+| $80K to $100K (%) |        11 |        10 |         9 |        12 |
+| $ > $100,000 (%) |        33 |        33 |        28 |        37 |
+| Inc Relative to Poverty |       289 |       278 |       261 |       322 |
+| < Poverty Line (%) |        18 |        20 |        24 |        12 |
+| < 150% of Poverty Line (%) |        27 |        29 |        33 |        19 |
+| Employed (%)     |        45 |        43 |        41 |        48 |
+| Unemployed (%)   |         2 |         2 |         3 |         2 |
+| Not in Labor Force (%) |        36 |        36 |        38 |        33 |
+| Hours Worked Per Week (Avg.) |        39 |        39 |        39 |        39 |
+| People per Sq. Mile |       726 |      1245 |       541 |       589 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+
+: Household Income, Employment, and Poverty {#tbl-income}
+
+## Education levels
+
+@tbl-edlevels provides a breakdown of the educational attainment of Hopetopians. Each row indicates the highest degree completed to provide a sense of the education levels of Hopetopia's workforce. This information is important for employers considering the availability of skills, knowledge, and abilities in the pool of potential workers.
+
+|                  | Northwest | Northeast | Southwest | Southeast |
+| ---------------- | :-------: | :-------: | :-------: | :-------: |
+| < HS diploma (%) |        29 |        33 |        32 |        27 |
+| HS diploma (%)   |        25 |        22 |        25 |        25 |
+| Some College (%) |        20 |        21 |        19 |        19 |
+| Associate's Degree (%) |         7 |         6 |         6 |         8 |
+| Bachelor's Degree (%) |        12 |        12 |        11 |        14 |
+| Graduate Degree (%) |         7 |         7 |         7 |         8 |
+| People per Sq. Mile |       726 |      1245 |       541 |       589 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+
+: Educational Attainment {#tbl-edlevels}
+
+## Commuters
+
+@tbl-commute summarizes how Hopetopians get to work. The first row provides the share of Hopetopians who commute to another ward or outside the city for work, while the remainder work within their ward. This information can be useful for thinking about transit needs for Hopetopia.
+
+|                  | Northwest | Northeast | Southwest | Southeast |
+| ---------------- | :-------: | :-------: | :-------: | :-------: |
+| Commutes (%)     |        44 |        42 |        41 |        47 |
+| Carpools (%)     |         4 |         5 |         4 |         4 |
+| Takes Personal Vehicle (%) |        39 |        38 |        38 |        42 |
+| Takes Bus (%)    |         3 |        2 |         2 |         5 |
+| Takes Bike (%)   |         2 |         0 |         1 |         1 |
+| Walks to Work (%) |         1 |         1 |         1 |         1 |
+| Works from Home  |         2 |         2 |         1 |         3 |
+| Time Spent Commuting (Avg. Mins) |        23 |        23 |        23 |        24 |
+| Number of Vehicles (Avg.) |         2 |         2 |         2 |         2 |
+| People per Sq. Mile |       726 |      1245 |       541 |       589 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+
+: Commuters by Mode of Transit {#tbl-commute}
+
+## Housing
+
+@tbl-homes provides an overview of homeownership versus renters in Hopetopia, as well as information about the property tax and rent burden in the city. 
+
+|                  | Northwest | Northeast | Southwest | Southeast |
+| ---------------- | :-------: | :-------: | :-------: | :-------: |
+| Renter (%)       |        24 |        29 |        30 |        20 |
+| Homeowner (%)    |        70 |        65 |        63 |        76 |
+| Rent (Avg.)      |       784 |       893 |       648 |       865 |
+| Home Value (Avg.) |    234,346 |    267,438 |    174,172 |    278,281 |
+| Property Tax < $1K (%) |        20 |        16 |        33 |        14 |
+| Property Tax < $2K (%) |        17 |        15 |        19 |        17 |
+| Property Tax < $3K (%) |        12 |        10 |        4 |        15 |
+| Property Tax < $4K (%) |        8 |        7 |        2 |        11 |
+| Property Tax < $5K (%) |        5 |        5 |        2 |        7 |
+| Property Tax < $6K (%) |        4 |        3 |        1 |        5 |
+| Property Tax < $7K (%) |        2 |        3 |        1 |        3 |
+| Property Tax > $7K (%) |         3 |         6 |         1 |         5 |
+| People per Sq. Mile |       726 |      1245 |       541 |       589 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+
+: Housing {#tbl-homes}
+
+## Federal Program Participation
+
+@tbl-programs provides a breakdown of the share of Hopetopians receiving public health insurance (Medicare or Medicaid) and the share participating in the food stamp program.
+
+|                  | Northwest | Northeast | Southwest | Southeast |
+| ---------------- | :-------: | :-------: | :-------: | :-------: |
+| No Health Insurance (%) |         8 |        11 |        10 |         6 |
+| Public Health Insurance (%) |        41 |        41 |        43 |        38 |
+| Food Stamp Recipient (%) |        13 |        14 |        18 |        10 |
+| People per Sq. Mile |       726 |      1245 |       541 |       589 |
+| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+
+: Federal Program Participation {#tbl-programs}
+
+## Miscellaneous
+
+| Hopetopia | Parks | Nonprofits | Prc Buildings occupied (residential) | Prc Buildings occupied (commercial) | No. schools (E/M/H) | No. churches |
+|----------|----------|----------|------------|------------|----------|----------|
+| SW        | 3     | 12         | 65%                                  | 45%                                 | 8/4/2               | 25           |
+| NE        | 10    | 15         | 85%                                  | 90%                                 | 16/8/4               | 20           |
+| NW        | 6     | 4          | 70%                                  | 55%                                 | 24/6/4              | 18           |
+| SE        | 15    | 13         | 97%                                  | 98%                                 | 20/12/4              | 15           |
+
+: Other information {#tbl-otherecon}
