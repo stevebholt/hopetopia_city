@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "hopetopia_city"
+  title: "City of Hopetopia"
   navbar:
     left:
       - text: "Home"
@@ -21,7 +21,7 @@ website:
       - text: "Education"
         file: ed.qmd
       
-    background: success
+    background: info
   
   sidebar:
     - title: "Home"
