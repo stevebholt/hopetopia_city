@@ -1,0 +1,78 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "hopetopia_city"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Mayor"
+        file: mayor.qmd
+      - text: "Emergency Services"
+        file: des.qmd
+      - text: "Community Development"
+        file: dcd.qmd
+      - text: "Social Services"
+        file: dss.qmd
+      - text: "General Services"
+        file: dgs.qmd
+      - text: "Education"
+        file: ed.qmd
+      
+    background: success
+  
+  sidebar:
+    - title: "Home"
+      style: "docked"
+      search: true
+      contents:
+        - href: index.qmd
+        - href: people.qmd
+        - href: wards.qmd
+        - href: econ.qmd
+         
+    - title: "Office of the Mayor"
+      contents:
+            - href: mayor.qmd
+  
+    - title: "Emergency Services"
+      contents:
+        - href: des.qmd
+        - href: aboutpd.qmd
+        - href: aboutfd.qmd
+        
+    - title: "Community Development"
+      contents:
+        - href: dcd.qmd
+        - href: abouthp.qmd
+        - href: aboutbr.qmd
+        
+    - title: "Social Services"
+      contents:
+        - href: dss.qmd
+        - href: aboutas.qmd
+        - href: aboutys.qmd
+        
+    - title: "General Services"
+      contents:
+        - href: dgs.qmd
+        - href: abouttd.qmd
+        - href: aboutgs.qmd
+        
+    - title: "Education"
+      contents:
+        - href: ed.qmd
+        - href: aboutps.qmd
+        - href: aboutev.qmd
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
