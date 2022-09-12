@@ -4,7 +4,7 @@ title: "Statistics on Hopetopians"
 
 # Our People
 
-Like all cities, it is the people of Hopetopia that make our city unique and drive our city's economy and culture. On this page, you can find information about the demographics and families in Hopetopia separated by the four major ward of the city - Northwest, Northeast, Southwest, and Southeast. The information here can be aggregated to learn more about the city as a whole and can provide context for decisions made by the city government in serving Hopetopians.
+Like all cities, it is the people of Hopetopia that make our city unique and drive our city's economy and culture. On this page, you can find information about the demographics and families in Hopetopia separated by the four major wards of the city - Northwest, Northeast, Southwest, and Southeast. The information here can be aggregated to learn more about the city as a whole and can provide context for decisions made by the city government in serving Hopetopians.
 
 ## Demographics
 
@@ -26,43 +26,41 @@ Like all cities, it is the people of Hopetopia that make our city unique and dri
 | \% New Resident               |     7     |     7     |     7     |     6     |
 | \% English as Second Language |     4     |     9     |     2     |     3     |
 | People per Sq. Mile           |    726    |   1245    |    541    |    589    |
-| Population of Ward            |  179,271   |  199,520   |  167,608   |  178,871   |
+| Population of Ward            |  179,271  |  199,520  |  167,608  |  178,871  |
 
 : Demographics of Hopetopia {#tbl-demos}
-
 
 ## Families
 
 @tbl-families provides a breakdown by ward of the proportion of residents living in multi-generation households, the number of children families tend to have, and the share of households with children. This information can be helpful for considering how to target funding for programs aiding families, parents, or children.
 
-|                  | Northwest | Northeast | Southwest | Southeast |
-| ---------------- | :-------: | :-------: | :-------: | :-------: |
-| Avg. Family Size |         3 |         3 |         3 |         3 |
-| % HH Multi-Generation |        54 |        57 |        55 |        54 |
-| % HH Single Adults |        21 |        20 |        22 |        17 |
-| % HH has children < 18 |        25 |        26 |        25 |        26 |
-| # of children if > 0 |         2 |         2 |         2 |         2 |
-| % HH with child < age 5 |         6 |         7 |         6 |         7 |
-| People per Sq. Mile |       726 |      1245 |       541 |       589 |
-| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+|                           | Northwest | Northeast | Southwest | Southeast |
+|---------------------------|:---------:|:---------:|:---------:|:---------:|
+| Avg. Family Size          |     3     |     3     |     3     |     3     |
+| \% HH Multi-Generation    |    54     |    57     |    55     |    54     |
+| \% HH Single Adults       |    21     |    20     |    22     |    17     |
+| \% HH has children \< 18  |    25     |    26     |    25     |    26     |
+| \# of children if \> 0    |     2     |     2     |     2     |     2     |
+| \% HH with child \< age 5 |     6     |     7     |     6     |     7     |
+| People per Sq. Mile       |    726    |   1245    |    541    |    589    |
+| Population of Ward        |  179,271  |  199,520  |  167,608  |  178,871  |
 
 : Statistics about Hopetopia Families {#tbl-families}
-
 
 ## School Populations
 
 @tbl-edpop summarizes the proportion of each ward's population in school at different levels of education. This information can be helpful for estimating the school aged population for deciding on education funding.
 
-|                  | Northwest | Northeast | Southwest | Southeast |
-| ---------------- | :-------: | :-------: | :-------: | :-------: |
-| Pre-School Children (%) |         1 |         1 |         1 |         1 |
-| Kindergarten Children (%) |         1 |         1 |         1 |         1 |
-| Elementary School Children (%) |         4 |         5 |         4 |         4 |
-| Middles School Children (%) |         5 |         5 |         5 |         5 |
-| High School Children (%) |         5 |         5 |         5 |         5 |
-| College Students (%) |         6 |         7 |         6 |         4 |
-| Graduate Students (%) |         1 |         1 |         1 |         1 |
-| People per Sq. Mile |       726 |      1245 |       541 |       589 |
-| Population of Ward |    179,271 |    199,520 |    167,608 |    178,871 |
+|                                | Northwest | Northeast | Southwest | Southeast |
+|--------------------------------|:---------:|:---------:|:---------:|:---------:|
+| Pre-School Children (%)        |     1     |     1     |     1     |     1     |
+| Kindergarten Children (%)      |     1     |     1     |     1     |     1     |
+| Elementary School Children (%) |     4     |     5     |     4     |     4     |
+| Middles School Children (%)    |     5     |     5     |     5     |     5     |
+| High School Children (%)       |     5     |     5     |     5     |     5     |
+| College Students (%)           |     6     |     7     |     6     |     4     |
+| Graduate Students (%)          |     1     |     1     |     1     |     1     |
+| People per Sq. Mile            |    726    |   1245    |    541    |    589    |
+| Population of Ward             |  179,271  |  199,520  |  167,608  |  178,871  |
 
 : Proportion of Population in School {#tbl-edpop}
